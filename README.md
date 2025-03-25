@@ -68,7 +68,7 @@ This project was implemented using **self-learning techniques** 📚 through onl
 ## 💻 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-username/ipl-data-analysis.git
+ [git clone https://github.com/your-username/ipl-data-analysis.git](https://github.com/Techsdemonoj/IPL_PySpark_analysis.git)
 ```
 ### 2️⃣ Install Dependencies
 ```sh
