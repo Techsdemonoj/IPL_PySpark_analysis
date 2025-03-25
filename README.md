@@ -83,8 +83,8 @@ jupyter notebook
 Feel free to contribute, raise an issue, or suggest improvements! 🙌  
 
 ## 📌 Connect with Me
-[![GitHub]([https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/your-username](https://github.com/Techsdemonoj))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Techsdemonoj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monoj-das-275238189/)
 
 ---
 
